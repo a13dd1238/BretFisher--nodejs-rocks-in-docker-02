@@ -12,6 +12,8 @@ https://hub.docker.com/repository/docker/a13dd1238/bret-fisher-nodejs-rocks-in-d
 
 https://www.youtube.com/watch?v=Z0lpNSC1KbM&ab_channel=BretFisherDockerandDevOps
 
+[![On YouTube: Node.js Rocks in Docker](https://img.youtube.com/vi/Z0lpNSC1KbM/0.jpg)](https://www.youtube.com/watch?v=Z0lpNSC1KbM)
+
 xxx
 
 https://hackmd.io/iUyGV8IoRoOqhOurygkyHA?both
